@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": ["ES6", "DOM"],
+        "target": "ES5",
+        "allowJs": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "outDir": "./build",
+        "downlevelIteration": true
+    },
+    "exclude": ["__tests__"],
+}
